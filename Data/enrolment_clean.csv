@@ -1,0 +1,361 @@
+SCHOOL_YEAR,DATA_LEVEL,PUBLIC_OR_INDEPENDENT,DISTRICT_NUMBER,DISTRICT_NAME,SCHOOL_NUMBER,SCHOOL_NAME,FACILITY_TYPE,GRADE,TOTAL_ENROLMENT,INDIGENOUS_ENROLMENT,ELL_ENROLMENT,FRENCH_IMMERSION_ENROLMENT,DISABILITIES_OR_DIVERSE_ABILITIES_ENROLMENT,RESIDENT_ENROLMENT,ADULT_ENROLMENT,TOTAL_FTE,INDIGENOUS_FTE,ELL_FTE,FRENCH_IMMERSION_FTE,DISABILITIES_OR_DIVERSE_ABILITIES_FTE,RESIDENT_FTE,ADULT_FTE
+2020/2021,District Level,Public School,5.0,Southeast Kootenay,,,All Facility Types,All Grades,5650,1305,69,585,757,5631,43,5559.6875,1303.9375,69.6875,588.6875,763.8125,5553.375,5.125
+2020/2021,District Level,Public School,6.0,Rocky Mountain,,,All Facility Types,All Grades,3343,863,37,170,339,3326,Msk,3315.375,857.4375,37,169,337.5,3304.1875,Msk
+2020/2021,District Level,Public School,8.0,Kootenay Lake,,,All Facility Types,All Grades,5053,1156,68,281,457,4993,114,4719.9375,1108.375,68.25,276.875,453.5,4692.9375,9
+2020/2021,District Level,Public School,10.0,Arrow Lakes,,,All Facility Types,All Grades,504,137,Msk,,79,504,Msk,515.1572,138.9376,Msk,,82.0001,515.1572,Msk
+2020/2021,District Level,Public School,19.0,Revelstoke,,,All Facility Types,All Grades,1015,133,48,,200,1013,,1024.4375,134,48.5,,203.0625,1022.3125,
+2020/2021,District Level,Public School,20.0,Kootenay-Columbia,,,All Facility Types,All Grades,3896,780,47,400,451,3896,,3880.75,770.5,47.375,404.75,436.5625,3880.75,
+2020/2021,District Level,Public School,22.0,Vernon,,,All Facility Types,All Grades,8705,1565,150,1150,889,8661,20,8530.4375,1533.1875,150.25,1163.75,889.125,8489.875,3.375
+2020/2021,District Level,Public School,23.0,Central Okanagan,,,All Facility Types,All Grades,23448,3647,864,2720,2963,23126,56,23454.625,3642.25,868.5,2773.0625,2960.75,23156.625,18
+2020/2021,District Level,Public School,27.0,Cariboo-Chilcotin,,,All Facility Types,All Grades,4470,1508,222,372,376,4469,Msk,4413.9375,1484.1875,221,372.75,370.125,4412.9375,Msk
+2020/2021,District Level,Public School,28.0,Quesnel,,,All Facility Types,All Grades,2987,1001,72,197,367,2987,Msk,2927.0,987.75,72,198.875,364.25,2927,Msk
+2020/2021,District Level,Public School,33.0,Chilliwack,,,All Facility Types,All Grades,13677,2781,616,719,1982,13648,68,14036.1563,2842.5625,621.4375,741.5625,2081.875,14005.5313,31.625
+2020/2021,District Level,Public School,34.0,Abbotsford,,,All Facility Types,All Grades,19905,2457,3019,1229,1929,19701,139,19651.4375,2432.5,3023.3125,1256.6875,1928.9375,19450.375,22.25
+2020/2021,District Level,Public School,35.0,Langley,,,All Facility Types,All Grades,22991,2459,1410,1421,2971,22211,563,21916.625,2380.0625,1405.5625,1443.75,2986.5,21239.3125,73
+2020/2021,District Level,Public School,36.0,Surrey,,,All Facility Types,All Grades,76804,3918,19113,3100,8661,76114,2329,73045.1875,3721.75,19078.0625,3083.5625,8556.5,72401.125,470.625
+2020/2021,District Level,Public School,37.0,Delta,,,All Facility Types,All Grades,16728,792,1782,1896,2117,16404,323,16132.1877,787.4063,1793.7813,1897.625,2165.875,15813.1877,54.9689
+2020/2021,District Level,Public School,38.0,Richmond,,,All Facility Types,All Grades,21386,327,6219,2347,1842,20780,405,20337.375,322.25,6217,2341.375,1834.9375,19759.0625,62.5625
+2020/2021,District Level,Public School,39.0,Vancouver,,,All Facility Types,All Grades,53874,2377,8429,5054,5846,52545,1389,50045.75,2314.375,8434.8125,5052.25,5775.3125,48768.4375,265
+2020/2021,District Level,Public School,40.0,New Westminster,,,All Facility Types,All Grades,7990,376,1251,1025,649,7877,1188,6782.4375,333.0625,1249.25,1030.625,644.5625,6689.0625,172.3125
+2020/2021,District Level,Public School,41.0,Burnaby,,,All Facility Types,All Grades,26239,908,5838,2196,2484,25436,802,24657.3127,860.125,5842.875,2211.5625,2459.8438,23883.0627,149.9375
+2020/2021,District Level,Public School,42.0,Maple Ridge-Pitt Meadows,,,All Facility Types,All Grades,15360,1748,824,1638,2466,15177,284,15219.125,1750.625,826,1664.5,2542.8125,15038.1875,30
+2020/2021,District Level,Public School,43.0,Coquitlam,,,All Facility Types,All Grades,34428,1615,5085,3886,5127,33367,1228,32507.875,1586.125,5102.625,3937.25,5276.6875,31416.9375,241.9375
+2020/2021,District Level,Public School,44.0,North Vancouver,,,All Facility Types,All Grades,16122,711,1020,2623,2210,15816,80,15628.1875,701.3125,1018.6875,2614.4375,2210.625,15336.75,5.3125
+2020/2021,District Level,Public School,45.0,West Vancouver,,,All Facility Types,All Grades,7207,140,1355,1046,706,6898,Msk,7266.625,138.125,1359.1875,1067.0625,714,6948.125,Msk
+2020/2021,District Level,Public School,46.0,Sunshine Coast,,,All Facility Types,All Grades,3271,769,115,,692,3269,19,3205.1875,759.5,115,,684.3125,3203.3125,3.75
+2020/2021,District Level,Public School,47.0,qathet,,,All Facility Types,All Grades,3191,505,18,194,562,3163,35,2958.5625,468.8125,18,194.75,508.625,2932.6875,3.875
+2020/2021,District Level,Public School,48.0,Sea to Sky,,,All Facility Types,All Grades,5398,764,380,1069,483,5346,33,5319.1875,766.625,383.625,1111,499.0625,5271.375,5.125
+2020/2021,District Level,Public School,49.0,Central Coast,,,All Facility Types,All Grades,232,142,16,,32,232,,230.625,141.875,16,,31.625,230.625,
+2020/2021,District Level,Public School,50.0,Haida Gwaii,,,All Facility Types,All Grades,444,305,43,,76,444,Msk,439.75,302,43,,75.9375,439.75,Msk
+2020/2021,District Level,Public School,51.0,Boundary,,,All Facility Types,All Grades,1246,435,Msk,,196,1246,Msk,1241.125,434.75,Msk,,195,1241.125,Msk
+2020/2021,District Level,Public School,52.0,Prince Rupert,,,All Facility Types,All Grades,1833,1182,180,210,285,1830,,1833.875,1184.4375,182.6875,211.125,283.0625,1831,
+2020/2021,District Level,Public School,53.0,Okanagan Similkameen,,,All Facility Types,All Grades,2402,569,167,16,408,2402,52,2299.6875,548.0625,166.75,16,393.75,2299.6875,8.875
+2020/2021,District Level,Public School,54.0,Bulkley Valley,,,All Facility Types,All Grades,1976,590,,176,202,1976,Msk,1931.375,584.625,,176,204,1931.375,Msk
+2020/2021,District Level,Public School,57.0,Prince George,,,All Facility Types,All Grades,13080,4364,1728,1179,1466,13072,162,12880.5,4317.375,1729,1183.9375,1469.625,12874.8125,27.625
+2020/2021,District Level,Public School,58.0,Nicola-Similkameen,,,All Facility Types,All Grades,2529,1008,,199,276,2525,211,1974.75,937.375,,199.75,263.4375,1974.375,15.625
+2020/2021,District Level,Public School,59.0,Peace River South,,,All Facility Types,All Grades,3580,1329,85,269,421,3576,13,3560.8125,1326.625,85.75,270.625,419.8125,3558.0625,
+2020/2021,District Level,Public School,60.0,Peace River North,,,All Facility Types,All Grades,6991,1523,483,373,624,6962,174,6065.6875,1455,485.75,378.4375,629.8125,6043,14
+2020/2021,District Level,Public School,61.0,Greater Victoria,,,All Facility Types,All Grades,19548,1712,1919,3856,2475,19091,144,19819.8792,1724.7813,1942.3438,3990.7211,2586.7508,19371.5042,19.9375
+2020/2021,District Level,Public School,62.0,Sooke,,,All Facility Types,All Grades,12206,1658,633,1553,1524,12060,472,11408.875,1566.1875,641.625,1577.375,1556.375,11295.625,40.875
+2020/2021,District Level,Public School,63.0,Saanich,,,All Facility Types,All Grades,9820,961,634,964,1094,9732,1186,7621.0625,757.9375,635.5,969.8125,1034.0625,7539.0625,133.3125
+2020/2021,District Level,Public School,64.0,Gulf Islands,,,All Facility Types,All Grades,1459,177,31,159,169,1420,,1456.1875,179.0625,31,160.625,171.5625,1430.8125,
+2020/2021,District Level,Public School,67.0,Okanagan Skaha,,,All Facility Types,All Grades,5747,1157,81,612,629,5671,29,5592.0,1124.25,80.375,621.3125,623.5,5538.6875,5.125
+2020/2021,District Level,Public School,68.0,Nanaimo-Ladysmith,,,All Facility Types,All Grades,15136,2874,980,1635,1169,15047,90,14393.4375,2773.6875,976.75,1621.5625,1126.9375,14312.25,8.75
+2020/2021,District Level,Public School,69.0,Qualicum,,,All Facility Types,All Grades,4532,652,70,450,525,4502,37,4259.5,629.75,70.9375,454.875,516.8125,4230.9375,5.375
+2020/2021,District Level,Public School,70.0,Pacific Rim,,,All Facility Types,All Grades,3813,1459,93,362,465,3807,80,3758.5625,1432.5,93.25,366,457.5,3752.0625,26.375
+2020/2021,District Level,Public School,71.0,Comox Valley,,,All Facility Types,All Grades,12025,2126,111,1180,904,11834,698,9648.75,1913.375,111.0625,1184.9375,880.6875,9548.375,62.0625
+2020/2021,District Level,Public School,72.0,Campbell River,,,All Facility Types,All Grades,5440,1484,261,855,690,5426,36,5436.25,1485.375,261.0625,876,693.6875,5424.875,6
+2020/2021,District Level,Public School,73.0,Kamloops-Thompson,,,All Facility Types,All Grades,15343,3526,240,1206,1748,15243,278,14861.25,3409.5625,240.75,1217.9375,1725.625,14801.125,35.625
+2020/2021,District Level,Public School,74.0,Gold Trail,,,All Facility Types,All Grades,1057,699,,,96,1057,,1042.0625,690.4375,,,93.6875,1042.0625,
+2020/2021,District Level,Public School,75.0,Mission,,,All Facility Types,All Grades,6423,1318,357,545,773,6368,41,6247.3125,1282.0625,357.125,547.25,767.6875,6191.9375,4.125
+2020/2021,District Level,Public School,78.0,Fraser-Cascade,,,All Facility Types,All Grades,1626,720,87,,264,1625,Msk,1639.75,723.375,87.5,,266.125,1638.75,Msk
+2020/2021,District Level,Public School,79.0,Cowichan Valley,,,All Facility Types,All Grades,8441,1896,355,1004,1115,8364,29,8184.5416,1856.596,355.9688,1010.9063,1124.252,8113.9791,5.875
+2020/2021,District Level,Public School,81.0,Fort Nelson,,,All Facility Types,All Grades,650,277,13,,69,650,,634.8125,269.875,13.1875,,67.6875,634.8125,
+2020/2021,District Level,Public School,82.0,Coast Mountains,,,All Facility Types,All Grades,3968,1940,259,451,587,3968,75,3834.625,1879.75,258.9375,450.25,576.125,3834.625,3.5
+2020/2021,District Level,Public School,83.0,K̓wsaltktnéws ne Secwepemcúl’ecw,,,All Facility Types,All Grades,6464,1493,44,758,1117,6460,20,6430.5625,1496.25,45.3125,778.875,1135,6426.3125,1.25
+2020/2021,District Level,Public School,84.0,Vancouver Island West,,,All Facility Types,All Grades,381,262,34,,87,378,Msk,384.375,264.9375,34,,87.3125,381.125,Msk
+2020/2021,District Level,Public School,85.0,Vancouver Island North,,,All Facility Types,All Grades,1220,623,205,,267,1219,Msk,1209.375,615.375,205.125,,265.75,1208.375,Msk
+2020/2021,District Level,Public School,87.0,Stikine,,,All Facility Types,All Grades,172,144,,,25,172,Msk,168.3125,140.1875,,,24.5,168.3125,Msk
+2020/2021,District Level,Public School,91.0,Nechako Lakes,,,All Facility Types,All Grades,5089,1584,,174,724,5045,436,3616.625,1402.4375,,174,667.625,3610.625,30.375
+2020/2021,District Level,Public School,92.0,Nisga'a,,,All Facility Types,All Grades,388,387,64,,55,388,10,372.125,371.125,64,,52,372.125,1.75
+2020/2021,District Level,Public School,93.0,Conseil scolaire francophone,,,All Facility Types,All Grades,6446,648,1522,,610,6446,Msk,6439.6875,647.8125,1523,,604.25,6439.6875,Msk
+2021/2022,District Level,Public School,5.0,Southeast Kootenay,,,All Facility Types,All Grades,5967,1341,70,621,882,5901,55,5851.875,1322.8125,71.25,625.0625,883.75,5792.5,4.875
+2021/2022,District Level,Public School,6.0,Rocky Mountain,,,All Facility Types,All Grades,3603,917,42,186,375,3517,Msk,3543.6875,898.9375,42,185,373,3469.5625,Msk
+2021/2022,District Level,Public School,8.0,Kootenay Lake,,,All Facility Types,All Grades,5082,1145,78,305,440,5006,94,4777.5,1102,78.0625,303.9375,438.125,4719.25,6.125
+2021/2022,District Level,Public School,10.0,Arrow Lakes,,,All Facility Types,All Grades,520,147,Msk,,89,520,Msk,532.0024,147.5005,Msk,,92.9067,532.0024,Msk
+2021/2022,District Level,Public School,19.0,Revelstoke,,,All Facility Types,All Grades,1051,125,42,,189,1027,,1069.375,127.125,42.125,,196.0625,1045.125,
+2021/2022,District Level,Public School,20.0,Kootenay-Columbia,,,All Facility Types,All Grades,4104,828,70,380,482,4104,,4083.6875,821.5,69.5625,380.875,476.4375,4083.6875,
+2021/2022,District Level,Public School,22.0,Vernon,,,All Facility Types,All Grades,9197,1618,156,1134,1059,8955,15,8879.875,1570.4375,156.125,1138.25,1056.0625,8675.9375,4.625
+2021/2022,District Level,Public School,23.0,Central Okanagan,,,All Facility Types,All Grades,24401,3685,954,2736,3047,23918,76,24374.9375,3690,959.0625,2791.6875,3048.75,23930.1875,19.5
+2021/2022,District Level,Public School,27.0,Cariboo-Chilcotin,,,All Facility Types,All Grades,4685,1598,115,374,328,4683,Msk,4643.9375,1589.1875,115,373.5625,328.0625,4642.4375,Msk
+2021/2022,District Level,Public School,28.0,Quesnel,,,All Facility Types,All Grades,3016,1010,111,190,369,3016,Msk,2943.875,994.4375,111,191.375,368.375,2943.875,Msk
+2021/2022,District Level,Public School,33.0,Chilliwack,,,All Facility Types,All Grades,14196,2800,679,731,2173,14080,53,14619.1251,2853.5625,685.5,758.375,2250,14500.3126,20.75
+2021/2022,District Level,Public School,34.0,Abbotsford,,,All Facility Types,All Grades,20182,2490,2852,1077,2071,19906,204,19773.375,2441.1875,2860.6875,1096.25,2094.25,19516.5625,33.9375
+2021/2022,District Level,Public School,35.0,Langley,,,All Facility Types,All Grades,23722,2447,1654,1398,3113,22843,733,22909.6875,2358.8125,1654.9375,1423.625,3087.5625,22110.5625,68.375
+2021/2022,District Level,Public School,36.0,Surrey,,,All Facility Types,All Grades,77646,3842,18846,3063,8995,77002,1768,73789.4375,3697,18826.4375,3061.1875,8946.0625,73204.125,297.625
+2021/2022,District Level,Public School,37.0,Delta,,,All Facility Types,All Grades,16841,816,1671,1904,2157,16181,132,16186.6875,792.1875,1673.625,1903.6875,2157.5,15655.9375,18.375
+2021/2022,District Level,Public School,38.0,Richmond,,,All Facility Types,All Grades,22202,330,6431,2371,1991,21520,424,20934.45,322.1875,6431.125,2372.375,1977.0125,20296.7,70.75
+2021/2022,District Level,Public School,39.0,Vancouver,,,All Facility Types,All Grades,52117,2404,8022,4863,6069,50853,1115,49393.0,2358.625,8033.625,4872.8125,6026.25,48181.3125,181.25
+2021/2022,District Level,Public School,40.0,New Westminster,,,All Facility Types,All Grades,7683,396,1283,966,734,7542,581,6871.9375,351.4375,1282.125,970.375,733.4375,6756.6875,36.4375
+2021/2022,District Level,Public School,41.0,Burnaby,,,All Facility Types,All Grades,26055,931,6186,2201,2655,25060,335,25097.7189,895.625,6193.8125,2228.4375,2638.2188,24146.2189,34.8125
+2021/2022,District Level,Public School,42.0,Maple Ridge-Pitt Meadows,,,All Facility Types,All Grades,16061,1739,907,1650,2676,15635,328,15905.875,1723,911.8125,1678.0625,2739.875,15507.625,24.5
+2021/2022,District Level,Public School,43.0,Coquitlam,,,All Facility Types,All Grades,33867,1569,5104,3827,5378,32937,915,32213.8125,1545.125,5121.25,3877.875,5522.0625,31276.125,129.75
+2021/2022,District Level,Public School,44.0,North Vancouver,,,All Facility Types,All Grades,16578,752,1068,2685,2301,16042,81,16089.625,747,1066.875,2680,2320,15596.1875,4
+2021/2022,District Level,Public School,45.0,West Vancouver,,,All Facility Types,All Grades,7183,136,1288,1022,704,6772,,7367.125,138.875,1293.1875,1044.875,722.0625,6950.75,
+2021/2022,District Level,Public School,46.0,Sunshine Coast,,,All Facility Types,All Grades,3400,775,114,,756,3381,Msk,3352.3125,764.125,114.5,,757.5625,3335.75,Msk
+2021/2022,District Level,Public School,47.0,qathet,,,All Facility Types,All Grades,3267,509,12,215,609,3191,36,2982.25,470.1875,12,215.875,537.1875,2912.5,3.1875
+2021/2022,District Level,Public School,48.0,Sea to Sky,,,All Facility Types,All Grades,5598,756,389,1079,561,5404,45,5499.0,745.375,392.9375,1119.5625,576.8125,5308.25,4.375
+2021/2022,District Level,Public School,49.0,Central Coast,,,All Facility Types,All Grades,Msk,Msk,Msk,Msk,Msk,Msk,Msk,206.6875,Msk,Msk,Msk,Msk,Msk,
+2021/2022,District Level,Public School,50.0,Haida Gwaii,,,All Facility Types,All Grades,461,305,62,,85,461,,458.4375,303.1875,62,,85.6875,458.4375,
+2021/2022,District Level,Public School,51.0,Boundary,,,All Facility Types,All Grades,1315,456,,,203,1315,,1298.5,451.125,,,200.125,1298.5,
+2021/2022,District Level,Public School,52.0,Prince Rupert,,,All Facility Types,All Grades,1830,1183,143,205,301,1830,,1817.8125,1169.1875,143.1875,208.6875,295.8125,1817.8125,
+2021/2022,District Level,Public School,53.0,Okanagan Similkameen,,,All Facility Types,All Grades,2478,588,159,,409,2476,43,2361.5,547.4375,159,,392,2359.5,6.875
+2021/2022,District Level,Public School,54.0,Bulkley Valley,,,All Facility Types,All Grades,2001,604,,172,192,2001,,1912.75,589.0625,,172,191.5,1912.75,
+2021/2022,District Level,Public School,57.0,Prince George,,,All Facility Types,All Grades,13373,4469,1709,1168,1566,13367,252,13042.25,4397.5625,1710.625,1181.375,1582.125,13037.5625,13.5
+2021/2022,District Level,Public School,58.0,Nicola-Similkameen,,,All Facility Types,All Grades,2586,1067,,202,304,2584,223,2051.8125,976.3125,,201.875,299.25,2050.9375,11.4375
+2021/2022,District Level,Public School,59.0,Peace River South,,,All Facility Types,All Grades,3661,1368,90,267,458,3655,Msk,3629.625,1352,90.125,268.625,453.9375,3624.5,Msk
+2021/2022,District Level,Public School,60.0,Peace River North,,,All Facility Types,All Grades,6941,1554,501,373,683,6853,143,6147.375,1470.8125,503.9375,377.6875,679.625,6073.875,10.75
+2021/2022,District Level,Public School,61.0,Greater Victoria,,,All Facility Types,All Grades,20370,1781,1921,3912,2676,19436,106,20682.4721,1779.0627,1956.5313,4059.7517,2776.3133,19807.6596,18.25
+2021/2022,District Level,Public School,62.0,Sooke,,,All Facility Types,All Grades,12782,1680,795,1560,1692,12453,315,12245.5625,1618.8125,805.5625,1583.75,1729.5625,11980.125,25.0625
+2021/2022,District Level,Public School,63.0,Saanich,,,All Facility Types,All Grades,10103,1039,603,967,1167,9809,1302,7661.625,771.0625,606.0625,982.875,1078.8125,7459.25,96.625
+2021/2022,District Level,Public School,64.0,Gulf Islands,,,All Facility Types,All Grades,1510,175,15,141,171,1443,Msk,1512.375,178.25,15,143.6875,174.875,1462.5,Msk
+2021/2022,District Level,Public School,67.0,Okanagan Skaha,,,All Facility Types,All Grades,5785,1109,85,620,682,5671,Msk,5757.6875,1107.3125,84.8125,628.5625,688.875,5653.75,Msk
+2021/2022,District Level,Public School,68.0,Nanaimo-Ladysmith,,,All Facility Types,All Grades,15561,2972,928,1654,1264,15294,108,15018.1875,2901,928.5,1654.6875,1243.3125,14771.875,5.1875
+2021/2022,District Level,Public School,69.0,Qualicum,,,All Facility Types,All Grades,4697,663,86,457,512,4545,22,4407.5625,631.125,86.4375,461.625,508,4272.4375,1.5
+2021/2022,District Level,Public School,70.0,Pacific Rim,,,All Facility Types,All Grades,4007,1535,67,366,470,3986,34,3929.625,1507,68,371.125,467.125,3912.375,17.5
+2021/2022,District Level,Public School,71.0,Comox Valley,,,All Facility Types,All Grades,12582,2213,135,1245,1011,12257,800,9831.3125,1949.375,135,1253.0625,976.125,9622.625,43.6875
+2021/2022,District Level,Public School,72.0,Campbell River,,,All Facility Types,All Grades,5547,1467,257,856,757,5490,15,5587.625,1475.6875,257.375,865.5625,763.0625,5529,5.375
+2021/2022,District Level,Public School,73.0,Kamloops-Thompson,,,All Facility Types,All Grades,16069,3644,246,1228,1852,15848,281,15527.25,3523.375,247.8125,1245.625,1815.125,15374.5,22.125
+2021/2022,District Level,Public School,74.0,Gold Trail,,,All Facility Types,All Grades,1057,687,,,87,1057,,1054.5313,687.3125,,,86.9375,1054.5313,
+2021/2022,District Level,Public School,75.0,Mission,,,All Facility Types,All Grades,6670,1349,339,540,837,6573,55,6496.625,1306,339.5,543.375,823.9375,6398.375,2.5
+2021/2022,District Level,Public School,78.0,Fraser-Cascade,,,All Facility Types,All Grades,1709,737,79,,314,1709,Msk,1720.1875,741.1875,78.5,,314.8125,1720.1875,Msk
+2021/2022,District Level,Public School,79.0,Cowichan Valley,,,All Facility Types,All Grades,8732,1914,356,1019,1148,8539,14,8495.26175,1886.034,355.5,1027.719,1156.8776,8330.4805,2.5625
+2021/2022,District Level,Public School,81.0,Fort Nelson,,,All Facility Types,All Grades,681,289,14,Msk,84,681,Msk,671.5,284.8125,14.125,Msk,83.5,671.5,Msk
+2021/2022,District Level,Public School,82.0,Coast Mountains,,,All Facility Types,All Grades,4178,2123,312,459,608,4177,24,4054.5,2075,311.9375,458,597.4375,4053.5,0.375
+2021/2022,District Level,Public School,83.0,K̓wsaltktnéws ne Secwepemcúl’ecw,,,All Facility Types,All Grades,6915,1522,39,736,1237,6877,28,6806.1875,1517.75,39.3125,756.625,1256.5,6773.6875,0.125
+2021/2022,District Level,Public School,84.0,Vancouver Island West,,,All Facility Types,All Grades,285,181,,,57,277,,277.75,176.5625,,,55.375,269.75,
+2021/2022,District Level,Public School,85.0,Vancouver Island North,,,All Facility Types,All Grades,1277,647,201,,276,1275,Msk,1270.6875,643.3125,200.75,,275.6875,1269.5625,Msk
+2021/2022,District Level,Public School,87.0,Stikine,,,All Facility Types,All Grades,Msk,Msk,Msk,Msk,Msk,Msk,Msk,161.75,Msk,Msk,Msk,Msk,Msk,
+2021/2022,District Level,Public School,91.0,Nechako Lakes,,,All Facility Types,All Grades,5062,1566,,127,721,5032,461,3623.125,1400.5,,127,657.75,3613.375,19.125
+2021/2022,District Level,Public School,92.0,Nisga'a,,,All Facility Types,All Grades,376,375,70,Msk,55,376,Msk,376.625,375.625,70,Msk,55.5,376.625,Msk
+2021/2022,District Level,Public School,93.0,Conseil scolaire francophone,,,All Facility Types,All Grades,6447,593,1495,,681,6447,,6428.375,592.25,1495.3125,,675.5,6428.375,
+2022/2023,District Level,Public School,5.0,Southeast Kootenay,,,All Facility Types,All Grades,6111,1345,91,639,979,6043,64,5937.0625,1313.6875,91.5,641.8125,975,5881.125,4.875
+2022/2023,District Level,Public School,6.0,Rocky Mountain,,,All Facility Types,All Grades,3630,896,50,191,400,3546,Msk,3556.625,882,50,188.375,399.0625,3489.375,Msk
+2022/2023,District Level,Public School,8.0,Kootenay Lake,,,All Facility Types,All Grades,5052,1118,77,346,455,4979,82,4787.5,1074.75,76.6875,344.375,451.1875,4736.0625,4.625
+2022/2023,District Level,Public School,10.0,Arrow Lakes,,,All Facility Types,All Grades,509,144,Msk,,90,506,Msk,521.0326,147.3751,Msk,,90.5628,518.9701,Msk
+2022/2023,District Level,Public School,19.0,Revelstoke,,,All Facility Types,All Grades,1092,116,36,,202,1063,,1098.9375,118.3125,36,,205.6875,1072.0625,
+2022/2023,District Level,Public School,20.0,Kootenay-Columbia,,,All Facility Types,All Grades,4136,815,89,377,525,4135,,4103.625,811.5,88.625,378.375,520.4375,4103,
+2022/2023,District Level,Public School,22.0,Vernon,,,All Facility Types,All Grades,9311,1576,255,1096,1251,9049,15,8954.375,1534.9375,254.875,1096,1237,8740.375,2.375
+2022/2023,District Level,Public School,23.0,Central Okanagan,,,All Facility Types,All Grades,24728,3698,1180,2750,3200,24196,71,24699.0,3690.375,1187,2819.1875,3226.125,24233.375,13.875
+2022/2023,District Level,Public School,27.0,Cariboo-Chilcotin,,,All Facility Types,All Grades,4733,1620,34,399,359,4732,Msk,4693.625,1597.125,34,397.5,356.875,4692.5,Msk
+2022/2023,District Level,Public School,28.0,Quesnel,,,All Facility Types,All Grades,3044,1030,69,192,425,3044,10,2977.125,1014.6875,69,193.125,420.9375,2977.125,0.25
+2022/2023,District Level,Public School,33.0,Chilliwack,,,All Facility Types,All Grades,14413,2845,757,735,2327,14276,20,14903.5625,2931.25,763.0625,760.625,2439,14759.125,9.625
+2022/2023,District Level,Public School,34.0,Abbotsford,,,All Facility Types,All Grades,20186,2471,3027,1118,2165,19816,141,19979.8125,2446.375,3034.5625,1148.875,2166.9375,19645.8125,21.9375
+2022/2023,District Level,Public School,35.0,Langley,,,All Facility Types,All Grades,24691,2385,1921,1346,3376,23720,625,24087.3125,2309.875,1918.25,1354.5,3361.375,23227.125,80.25
+2022/2023,District Level,Public School,36.0,Surrey,,,All Facility Types,All Grades,79900,3706,20874,3005,9285,79156,1897,76145.625,3572.0625,20844.9375,2994.125,9232.3125,75485.8125,318.5
+2022/2023,District Level,Public School,37.0,Delta,,,All Facility Types,All Grades,17245,762,1868,1854,2074,16464,190,16427.875,743.0625,1869.75,1849.25,2063.1875,15799.1875,27.125
+2022/2023,District Level,Public School,38.0,Richmond,,,All Facility Types,All Grades,22886,320,7074,2336,2115,22143,402,21727.6875,313.125,7078.375,2334.1875,2103.4375,21046.1875,61.0625
+2022/2023,District Level,Public School,39.0,Vancouver,,,All Facility Types,All Grades,52640,2406,8701,4736,6158,51323,931,50527.4375,2357.4375,8715.875,4745.875,6114.3125,49232.375,164.3125
+2022/2023,District Level,Public School,40.0,New Westminster,,,All Facility Types,All Grades,7669,367,1439,990,772,7469,219,7264.1875,351.25,1439.5,995.8125,769.1875,7103.1875,25.875
+2022/2023,District Level,Public School,41.0,Burnaby,,,All Facility Types,All Grades,27525,917,7273,2192,2838,26356,409,26479.0625,880.875,7285.5625,2218.125,2819.125,25365.5,56.5625
+2022/2023,District Level,Public School,42.0,Maple Ridge-Pitt Meadows,,,All Facility Types,All Grades,16519,1725,1171,1624,2831,16004,297,16427.5625,1718.25,1179.125,1649.3125,2914.5,15937.625,41.125
+2022/2023,District Level,Public School,43.0,Coquitlam,,,All Facility Types,All Grades,33916,1483,5496,3763,5439,32787,972,32803.0944,1466,5517.0625,3800.6875,5571.6875,31727.8444,153.5944
+2022/2023,District Level,Public School,44.0,North Vancouver,,,All Facility Types,All Grades,16962,722,1269,2690,2403,16272,107,16450.0625,711.4375,1268.125,2682.5,2404.625,15799.25,4.375
+2022/2023,District Level,Public School,45.0,West Vancouver,,,All Facility Types,All Grades,7230,141,1396,998,798,6852,,7405.1875,142.5,1401.75,1011.5625,813.4375,7021.875,
+2022/2023,District Level,Public School,46.0,Sunshine Coast,,,All Facility Types,All Grades,3494,803,123,,820,3484,19,3397.8125,772.125,123.6875,,818.1875,3388.875,2.875
+2022/2023,District Level,Public School,47.0,qathet,,,All Facility Types,All Grades,3352,535,19,207,628,3285,33,3090.625,497.375,19,208.625,571.3125,3033.4375,2.75
+2022/2023,District Level,Public School,48.0,Sea to Sky,,,All Facility Types,All Grades,5482,686,382,1026,628,5307,33,5443.3125,699.0625,385.1875,1065.8125,645.875,5263.9375,1.625
+2022/2023,District Level,Public School,49.0,Central Coast,,,All Facility Types,All Grades,Msk,Msk,Msk,Msk,Msk,Msk,Msk,224.3125,Msk,Msk,Msk,Msk,Msk,
+2022/2023,District Level,Public School,50.0,Haida Gwaii,,,All Facility Types,All Grades,470,315,75,,101,470,Msk,462.125,308.75,75.125,,99,462.125,Msk
+2022/2023,District Level,Public School,51.0,Boundary,,,All Facility Types,All Grades,1320,457,,,189,1320,,1299.5,450.5,,,184,1299.5,
+2022/2023,District Level,Public School,52.0,Prince Rupert,,,All Facility Types,All Grades,1814,1165,169,187,295,1809,Msk,1823.625,1167.75,170.125,191.25,294.0625,1818.625,Msk
+2022/2023,District Level,Public School,53.0,Okanagan Similkameen,,,All Facility Types,All Grades,2485,569,143,,434,2483,34,2390.0625,542.0625,142.9375,,419.25,2388.4375,5.875
+2022/2023,District Level,Public School,54.0,Bulkley Valley,,,All Facility Types,All Grades,2036,597,,177,209,2036,Msk,1967.375,586.5,,177,205.8125,1967.375,Msk
+2022/2023,District Level,Public School,57.0,Prince George,,,All Facility Types,All Grades,13608,4492,1375,1121,1679,13603,356,13171.0625,4363.1875,1375.8125,1137.8125,1689.1875,13167,16.125
+2022/2023,District Level,Public School,58.0,Nicola-Similkameen,,,All Facility Types,All Grades,2518,999,Msk,189,297,2518,175,2005.75,928.4375,Msk,190,289.9375,2005.75,13.25
+2022/2023,District Level,Public School,59.0,Peace River South,,,All Facility Types,All Grades,3658,1344,99,260,452,3656,Msk,3641.3125,1332.8125,99.625,262.125,444.4375,3639.4375,Msk
+2022/2023,District Level,Public School,60.0,Peace River North,,,All Facility Types,All Grades,6796,1550,548,418,760,6723,116,6173.5,1487.9375,549.125,421.9375,758.9375,6113.375,8.875
+2022/2023,District Level,Public School,61.0,Greater Victoria,,,All Facility Types,All Grades,20490,1742,2226,3907,2836,19575,102,20847.9402,1765.125,2263.7813,4067.3139,2933.2191,20012.5027,14.6875
+2022/2023,District Level,Public School,62.0,Sooke,,,All Facility Types,All Grades,13536,1648,1124,1613,1912,13236,230,12881.4375,1583.3125,1137,1643.875,1920.25,12636.1875,17.5625
+2022/2023,District Level,Public School,63.0,Saanich,,,All Facility Types,All Grades,9773,989,588,989,1229,9459,1190,7529.25,728.125,588.3125,1004.6875,1168.9375,7291.25,80
+2022/2023,District Level,Public School,64.0,Gulf Islands,,,All Facility Types,All Grades,1547,195,17,147,192,1481,Msk,1540.875,192.6875,17,151.4375,195.9375,1494.3125,Msk
+2022/2023,District Level,Public School,67.0,Okanagan Skaha,,,All Facility Types,All Grades,5895,1123,149,637,747,5766,Msk,5893.625,1123.1875,149.5625,654.3125,744.4375,5790.4375,Msk
+2022/2023,District Level,Public School,68.0,Nanaimo-Ladysmith,,,All Facility Types,All Grades,15846,2959,935,1677,1324,15451,103,15242.0,2879.875,935,1676,1311.25,14917.625,8.1875
+2022/2023,District Level,Public School,69.0,Qualicum,,,All Facility Types,All Grades,4695,685,80,457,559,4518,32,4446.8125,645.625,80.8125,464.875,553.8125,4298.0625,3.8125
+2022/2023,District Level,Public School,70.0,Pacific Rim,,,All Facility Types,All Grades,4001,1513,44,368,459,3975,63,3966.3125,1500.8125,45,375.75,457.0625,3944.6875,14.875
+2022/2023,District Level,Public School,71.0,Comox Valley,,,All Facility Types,All Grades,12486,2184,184,1265,1064,12180,624,10020.75,1969.3125,184.25,1272.125,1032.5,9807.9375,37.875
+2022/2023,District Level,Public School,72.0,Campbell River,,,All Facility Types,All Grades,5633,1458,286,851,803,5546,Msk,5663.6875,1467.4375,286.0625,863.1875,809.25,5586.0625,Msk
+2022/2023,District Level,Public School,73.0,Kamloops-Thompson,,,All Facility Types,All Grades,16265,3654,315,1234,1950,16027,231,15796.8125,3539.75,314.5625,1242.125,1921.375,15608.3125,26.75
+2022/2023,District Level,Public School,74.0,Gold Trail,,,All Facility Types,All Grades,1091,717,,,107,1091,,1080.75,709.5625,,,106.125,1080.75,
+2022/2023,District Level,Public School,75.0,Mission,,,All Facility Types,All Grades,6698,1315,323,511,896,6573,35,6557.625,1289.875,322.875,515.375,874.4375,6434.25,0.125
+2022/2023,District Level,Public School,78.0,Fraser-Cascade,,,All Facility Types,All Grades,1711,706,94,,310,1711,Msk,1702.6875,705.75,94,,307.25,1702.6875,Msk
+2022/2023,District Level,Public School,79.0,Cowichan Valley,,,All Facility Types,All Grades,8658,1924,388,970,1177,8485,Msk,8577.40935,1930.8456,388.625,980.7188,1190.1574,8433.2531,Msk
+2022/2023,District Level,Public School,81.0,Fort Nelson,,,All Facility Types,All Grades,647,275,Msk,,61,647,,630.1875,263.5625,Msk,,58.375,630.1875,
+2022/2023,District Level,Public School,82.0,Coast Mountains,,,All Facility Types,All Grades,4270,2175,272,441,622,4267,21,4154.4375,2129.1875,271.5625,439.75,614,4152.4375,1
+2022/2023,District Level,Public School,83.0,K̓wsaltktnéws ne Secwepemcúl’ecw,,,All Facility Types,All Grades,6884,1529,71,715,1244,6845,25,6821.4375,1523.5625,71.375,731.875,1256.0625,6790.0625,1
+2022/2023,District Level,Public School,84.0,Vancouver Island West,,,All Facility Types,All Grades,329,195,,,60,319,,324.9375,193.25,,,58.5,315.0625,
+2022/2023,District Level,Public School,85.0,Vancouver Island North,,,All Facility Types,All Grades,1286,651,198,,275,1286,Msk,1275.625,643.125,198.5,,275.875,1275.625,Msk
+2022/2023,District Level,Public School,87.0,Stikine,,,All Facility Types,All Grades,Msk,Msk,Msk,Msk,Msk,Msk,Msk,179.875,Msk,Msk,Msk,Msk,Msk,Msk
+2022/2023,District Level,Public School,91.0,Nechako Lakes,,,All Facility Types,All Grades,4849,1547,,114,781,4802,362,3501.875,1405,,114,686.75,3487.5,19.375
+2022/2023,District Level,Public School,92.0,Nisga'a,,,All Facility Types,All Grades,396,392,,,46,396,Msk,419.5,415.5,,,51.25,419.5,Msk
+2022/2023,District Level,Public School,93.0,Conseil scolaire francophone,,,All Facility Types,All Grades,6347,543,1342,,706,6347,,6261.375,534.4375,1339.9375,,697,6261.375,
+2023/2024,District Level,Public School,5.0,Southeast Kootenay,,,All Facility Types,All Grades,6140,1334,102,657,1044,6088,81,6009.0,1306.4375,103.25,664.625,1049.4375,5963.8125,1.75
+2023/2024,District Level,Public School,6.0,Rocky Mountain,,,All Facility Types,All Grades,3603,862,63,185,426,3541,Msk,3538.125,849.875,63.0625,184.5,421.75,3480.875,Msk
+2023/2024,District Level,Public School,8.0,Kootenay Lake,,,All Facility Types,All Grades,5123,1065,82,354,440,5056,53,4821.3125,1032.1875,82.375,356,435.0625,4777.9375,5.625
+2023/2024,District Level,Public School,10.0,Arrow Lakes,,,All Facility Types,All Grades,507,144,Msk,,99,507,Msk,513.4075,144.4692,Msk,,96.0315,513.4075,Msk
+2023/2024,District Level,Public School,19.0,Revelstoke,,,All Facility Types,All Grades,1102,119,46,,212,1081,,1108.5625,120.8125,45.875,,214.4375,1086,
+2023/2024,District Level,Public School,20.0,Kootenay-Columbia,,,All Facility Types,All Grades,4231,805,122,389,577,4230,,4175.25,794.3125,120.375,387.8125,569,4174.25,
+2023/2024,District Level,Public School,22.0,Vernon,,,All Facility Types,All Grades,9411,1559,355,1091,1372,9140,Msk,9023.9375,1501.375,354.5,1094.5,1362.5,8791.9375,Msk
+2023/2024,District Level,Public School,23.0,Central Okanagan,,,All Facility Types,All Grades,25398,3626,1574,2793,3414,24935,73,25282.25,3616.5625,1589.5,2848.0625,3417.0625,24853.875,12.375
+2023/2024,District Level,Public School,27.0,Cariboo-Chilcotin,,,All Facility Types,All Grades,4633,1588,Msk,372,400,4632,,4590.4375,1574.8125,Msk,367.5625,398.0625,4589.375,
+2023/2024,District Level,Public School,28.0,Quesnel,,,All Facility Types,All Grades,3037,1043,76,180,474,3037,Msk,2990.125,1023.4375,76,180.75,473.1875,2990.125,Msk
+2023/2024,District Level,Public School,33.0,Chilliwack,,,All Facility Types,All Grades,14869,2972,757,731,2465,14736,42,15471.875,3079.1875,770.25,762.125,2600.6875,15332.25,12.75
+2023/2024,District Level,Public School,34.0,Abbotsford,,,All Facility Types,All Grades,20891,2425,3377,1098,2251,20530,301,20396.6875,2375.3125,3388.125,1125.5,2257.1875,20073.1875,47
+2023/2024,District Level,Public School,35.0,Langley,,,All Facility Types,All Grades,25979,2318,2377,1323,3636,24967,679,25448.1875,2263.3125,2377.625,1338.125,3614.6875,24507.9375,102.8125
+2023/2024,District Level,Public School,36.0,Surrey,,,All Facility Types,All Grades,83408,3558,23430,2992,9695,82597,2294,78913.4375,3405.125,23396.125,2977.125,9651.4375,78172.6875,357.625
+2023/2024,District Level,Public School,37.0,Delta,,,All Facility Types,All Grades,17274,706,2090,1822,2062,16492,277,16609.8125,701.5625,2090.875,1817.125,2056.4375,15918.0625,36.625
+2023/2024,District Level,Public School,38.0,Richmond,,,All Facility Types,All Grades,24183,306,7793,2363,2223,23226,409,22853.1875,300.5,7799.375,2366.75,2217.8125,21955.75,60.1875
+2023/2024,District Level,Public School,39.0,Vancouver,,,All Facility Types,All Grades,54257,2324,9257,4646,6295,52850,1092,51679.8125,2280.875,9276.0625,4648.75,6263.75,50280.875,191.375
+2023/2024,District Level,Public School,40.0,New Westminster,,,All Facility Types,All Grades,8284,357,1657,1000,853,8106,402,7632.5,331.9375,1654.625,999.3125,844,7467.0625,42
+2023/2024,District Level,Public School,41.0,Burnaby,,,All Facility Types,All Grades,28248,823,7971,2179,2910,27261,415,27160.5626,789.1875,7993.4375,2204.5625,2900.2501,26210.1251,52.5
+2023/2024,District Level,Public School,42.0,Maple Ridge-Pitt Meadows,,,All Facility Types,All Grades,17014,1666,1432,1617,2977,16483,419,16885.0,1651.375,1441.3125,1652.125,3072.125,16324.5,54.6875
+2023/2024,District Level,Public School,43.0,Coquitlam,,,All Facility Types,All Grades,35207,1482,6207,3631,5639,34016,1252,33919.4375,1460.25,6227.625,3667.375,5795.75,32755.125,200.1875
+2023/2024,District Level,Public School,44.0,North Vancouver,,,All Facility Types,All Grades,17164,696,1606,2636,2602,16509,83,16779.125,693.25,1610.25,2627.375,2607,16162,2.375
+2023/2024,District Level,Public School,45.0,West Vancouver,,,All Facility Types,All Grades,7346,131,1547,1000,868,6982,,7499.875,133.1875,1551,1009.6875,883.625,7122.3125,
+2023/2024,District Level,Public School,46.0,Sunshine Coast,,,All Facility Types,All Grades,3488,781,135,,835,3479,13,3480.125,775,136.875,,835.5,3472.25,2.875
+2023/2024,District Level,Public School,47.0,qathet,,,All Facility Types,All Grades,3371,541,17,206,686,3325,37,3077.875,499.3125,17,209.5,614.625,3041.0625,3.375
+2023/2024,District Level,Public School,48.0,Sea to Sky,,,All Facility Types,All Grades,5479,698,384,1026,730,5316,43,5461.0625,707.5625,388,1072.125,755.125,5292.6875,3.125
+2023/2024,District Level,Public School,49.0,Central Coast,,,All Facility Types,All Grades,Msk,Msk,Msk,Msk,Msk,Msk,Msk,223.5,Msk,Msk,Msk,Msk,Msk,
+2023/2024,District Level,Public School,50.0,Haida Gwaii,,,All Facility Types,All Grades,485,317,93,,105,484,Msk,477.25,311.375,93,,103.625,476.3125,Msk
+2023/2024,District Level,Public School,51.0,Boundary,,,All Facility Types,All Grades,1329,458,,,203,1329,,1311.625,450.75,,,199.5,1311.625,
+2023/2024,District Level,Public School,52.0,Prince Rupert,,,All Facility Types,All Grades,1818,1139,132,188,287,1814,,1835.0,1146.6875,132,191.5,287.75,1831.5,
+2023/2024,District Level,Public School,53.0,Okanagan Similkameen,,,All Facility Types,All Grades,2440,567,188,,478,2439,23,2364.3125,537.125,188.1875,,451.75,2363.0625,4.625
+2023/2024,District Level,Public School,54.0,Bulkley Valley,,,All Facility Types,All Grades,1999,580,,183,191,1999,Msk,1928.875,571.875,,183,189.75,1928.875,Msk
+2023/2024,District Level,Public School,57.0,Prince George,,,All Facility Types,All Grades,13687,4437,1477,1116,1827,13682,390,13195.375,4300.0625,1477.5625,1140.5,1842.8125,13190.5625,15.125
+2023/2024,District Level,Public School,58.0,Nicola-Similkameen,,,All Facility Types,All Grades,2756,1012,,142,326,2754,256,2061.6875,911.9375,,142.125,319.125,2061.5625,22.375
+2023/2024,District Level,Public School,59.0,Peace River South,,,All Facility Types,All Grades,3788,1335,158,266,497,3786,,3694.9375,1296.5625,157.875,266.5,483.8125,3692.9375,
+2023/2024,District Level,Public School,60.0,Peace River North,,,All Facility Types,All Grades,6844,1544,646,392,779,6786,105,6019.0625,1430.3125,643.0625,389.5,754.25,5973.375,6.625
+2023/2024,District Level,Public School,61.0,Greater Victoria,,,All Facility Types,All Grades,20905,1724,2482,3875,3030,19988,117,21233.1907,1744.4065,2521.75,4022.7515,3122.2191,20401.8782,22.375
+2023/2024,District Level,Public School,62.0,Sooke,,,All Facility Types,All Grades,14195,1596,1409,1653,2188,13861,181,13395.3125,1523.125,1435.8125,1686.625,2230.0625,13138.1875,17.6875
+2023/2024,District Level,Public School,63.0,Saanich,,,All Facility Types,All Grades,10039,944,604,978,1351,9728,1015,7693.5625,720.3125,604.375,989.9375,1271.5,7442.4375,87.875
+2023/2024,District Level,Public School,64.0,Gulf Islands,,,All Facility Types,All Grades,1561,196,20,142,239,1507,Msk,1554.6875,194.5625,20,149,239.4375,1513.375,Msk
+2023/2024,District Level,Public School,67.0,Okanagan Skaha,,,All Facility Types,All Grades,5848,1107,198,606,792,5742,,5896.1875,1111.8125,199.9375,621.5625,796.1875,5798,
+2023/2024,District Level,Public School,68.0,Nanaimo-Ladysmith,,,All Facility Types,All Grades,16144,2957,969,1708,1479,15770,123,15356.1875,2844.8125,964.4375,1703.125,1451.6875,15039.1875,13.25
+2023/2024,District Level,Public School,69.0,Qualicum,,,All Facility Types,All Grades,4544,665,66,463,601,4408,Msk,4476.375,648.5,66.125,474.5625,609.625,4347.5625,Msk
+2023/2024,District Level,Public School,70.0,Pacific Rim,,,All Facility Types,All Grades,4020,1491,36,352,460,3991,67,4000.8125,1483.875,36.75,360,465.75,3976.6875,10.375
+2023/2024,District Level,Public School,71.0,Comox Valley,,,All Facility Types,All Grades,13442,2279,196,1305,1135,13177,615,10359.9375,1962.0625,196.5625,1317.75,1086.3125,10160.625,41.5
+2023/2024,District Level,Public School,72.0,Campbell River,,,All Facility Types,All Grades,5644,1475,296,853,906,5569,,5743.0625,1498.8125,296.9375,870.5,919.8125,5679.5625,
+2023/2024,District Level,Public School,73.0,Kamloops-Thompson,,,All Facility Types,All Grades,16557,3630,376,1266,2049,16325,238,16046.25,3494.3125,376.125,1273.375,2024.9375,15843.25,24.125
+2023/2024,District Level,Public School,74.0,Gold Trail,,,All Facility Types,All Grades,1048,696,,,122,1048,Msk,1029.125,682.5,,,119.875,1029.125,Msk
+2023/2024,District Level,Public School,75.0,Mission,,,All Facility Types,All Grades,6903,1320,324,522,1006,6781,33,6680.25,1279.3125,324.625,526.875,1001.875,6560.125,0.75
+2023/2024,District Level,Public School,78.0,Fraser-Cascade,,,All Facility Types,All Grades,1739,697,72,,327,1739,13,1721.6875,679.8125,71.5,,317.6875,1721.6875,0.125
+2023/2024,District Level,Public School,79.0,Cowichan Valley,,,All Facility Types,All Grades,8707,1936,270,975,1229,8532,Msk,8697.2271,1948.2529,271.0625,992.4375,1250.7833,8560.4771,Msk
+2023/2024,District Level,Public School,81.0,Fort Nelson,,,All Facility Types,All Grades,667,283,12,,70,667,,654.375,274.875,12.125,,68.3125,654.375,
+2023/2024,District Level,Public School,82.0,Coast Mountains,,,All Facility Types,All Grades,4313,2157,375,456,631,4310,23,4210.5,2128.375,375.0625,454.625,627.6875,4207.875,0.5
+2023/2024,District Level,Public School,83.0,K̓wsaltktnéws ne Secwepemcúl’ecw,,,All Facility Types,All Grades,6790,1482,79,685,1262,6768,14,6781.125,1481.25,79.8125,700.125,1285,6761.9375,1.125
+2023/2024,District Level,Public School,84.0,Vancouver Island West,,,All Facility Types,All Grades,325,187,,,52,312,Msk,324.75,188.1875,,,52.875,311.8125,Msk
+2023/2024,District Level,Public School,85.0,Vancouver Island North,,,All Facility Types,All Grades,1267,654,174,,290,1267,Msk,1253.125,646,173.25,,288.375,1253.125,Msk
+2023/2024,District Level,Public School,87.0,Stikine,,,All Facility Types,All Grades,Msk,Msk,Msk,Msk,Msk,Msk,Msk,188.625,Msk,Msk,Msk,Msk,Msk,
+2023/2024,District Level,Public School,91.0,Nechako Lakes,,,All Facility Types,All Grades,5194,1634,,117,768,5160,418,3581.1875,1445.5625,,117,661,3576.5625,23.5
+2023/2024,District Level,Public School,92.0,Nisga'a,,,All Facility Types,All Grades,352,351,,,40,352,Msk,358.375,357.375,,,41.875,358.375,Msk
+2023/2024,District Level,Public School,93.0,Conseil scolaire francophone,,,All Facility Types,All Grades,6311,480,1263,,732,6311,Msk,6228.0,475.3125,1263.8125,,726.0625,6228,Msk
+2024/2025,District Level,Public School,5.0,Southeast Kootenay,,,All Facility Types,All Grades,6118,1254,124,662,1039,6053,43,5939.5,1226.375,125.875,666.5,1034,5890.5625,3.5
+2024/2025,District Level,Public School,6.0,Rocky Mountain,,,All Facility Types,All Grades,3650,847,61,190,458,3580,Msk,3566.5625,828.625,61.125,187.875,454.75,3511.5,Msk
+2024/2025,District Level,Public School,8.0,Kootenay Lake,,,All Facility Types,All Grades,5128,1026,74,334,419,5070,74,4723.0,981.1875,74,333.75,406,4681.75,6.125
+2024/2025,District Level,Public School,10.0,Arrow Lakes,,,All Facility Types,All Grades,504,132,,,112,504,Msk,518.2823,138.2817,,,114.1877,518.2823,Msk
+2024/2025,District Level,Public School,19.0,Revelstoke,,,All Facility Types,All Grades,1133,103,49,,213,1103,Msk,1129.875,103.9375,49.25,,212.4375,1103.9375,Msk
+2024/2025,District Level,Public School,20.0,Kootenay-Columbia,,,All Facility Types,All Grades,4239,768,173,328,580,4238,,4182.25,756.8125,172.75,326.625,570.8125,4181.25,
+2024/2025,District Level,Public School,22.0,Vernon,,,All Facility Types,All Grades,9528,1506,396,1064,1506,9211,,9074.625,1462.875,395.375,1068,1499.125,8824.5,
+2024/2025,District Level,Public School,23.0,Central Okanagan,,,All Facility Types,All Grades,25667,3489,1912,2858,3529,25165,86,25457.875,3453.0625,1930.625,2910.375,3549.375,25006.0625,14.3125
+2024/2025,District Level,Public School,27.0,Cariboo-Chilcotin,,,All Facility Types,All Grades,4577,1565,,340,454,4576,,4547.5,1554.625,,336.625,452.5,4546.5625,
+2024/2025,District Level,Public School,28.0,Quesnel,,,All Facility Types,All Grades,2981,1009,,181,476,2981,11,2900.625,986.375,,180.5,471.625,2900.625,0.75
+2024/2025,District Level,Public School,33.0,Chilliwack,,,All Facility Types,All Grades,15470,2972,979,762,2650,15239,64,15902.4702,3045.1566,988.8125,801.75,2750.9377,15692.9702,18.4375
+2024/2025,District Level,Public School,34.0,Abbotsford,,,All Facility Types,All Grades,21122,2294,3614,1073,2449,20711,210,20682.75,2248.8125,3617.0625,1102.125,2446.6875,20310.625,33.875
+2024/2025,District Level,Public School,35.0,Langley,,,All Facility Types,All Grades,26992,2236,2785,1268,3958,25916,774,26307.25,2194.6875,2785.8125,1289.875,3925.8125,25338.3125,109.9375
+2024/2025,District Level,Public School,36.0,Surrey,,,All Facility Types,All Grades,85187,3353,24715,2904,9994,84406,2611,80223.875,3206,24666,2878.25,9886.0625,79512.125,449.6875
+2024/2025,District Level,Public School,37.0,Delta,,,All Facility Types,All Grades,17481,672,2170,1771,2131,16733,331,16622.6875,652,2176.75,1768,2110.875,15982.25,49.625
+2024/2025,District Level,Public School,38.0,Richmond,,,All Facility Types,All Grades,24868,280,7876,2354,2334,24062,507,23378.3125,268.75,7885.875,2362.4375,2315.25,22631.75,70.875
+2024/2025,District Level,Public School,39.0,Vancouver,,,All Facility Types,All Grades,55261,2242,9535,4520,6425,53835,1218,52279.5,2184.75,9565.75,4526.4375,6372.625,50862.625,204.3125
+2024/2025,District Level,Public School,40.0,New Westminster,,,All Facility Types,All Grades,8711,334,1942,980,949,8541,416,7977.1875,312.25,1932,988.0625,944.375,7828,46.9375
+2024/2025,District Level,Public School,41.0,Burnaby,,,All Facility Types,All Grades,29228,748,8612,2209,3124,28397,525,28058.5002,721.75,8645.0625,2242.1875,3113.7813,27259.4377,67.5625
+2024/2025,District Level,Public School,42.0,Maple Ridge-Pitt Meadows,,,All Facility Types,All Grades,17353,1618,1628,1579,3118,16763,447,17120.5,1592.125,1640.25,1599.25,3194.0625,16509.875,59.375
+2024/2025,District Level,Public School,43.0,Coquitlam,,,All Facility Types,All Grades,36281,1415,6750,3472,5838,35090,1534,34508.125,1390.1875,6777.25,3508.875,5982.8125,33359.9375,238.125
+2024/2025,District Level,Public School,44.0,North Vancouver,,,All Facility Types,All Grades,17910,680,1772,2679,2760,17200,157,17160.5,655.5,1770.9375,2631.5,2758.75,16479.5,11.9375
+2024/2025,District Level,Public School,45.0,West Vancouver,,,All Facility Types,All Grades,7446,131,1645,989,887,7031,,7618.1875,132.9375,1650.5625,998.3125,907.3125,7184.875,
+2024/2025,District Level,Public School,46.0,Sunshine Coast,,,All Facility Types,All Grades,3555,769,139,Msk,880,3536,32,3520.8125,758.4375,141.1875,Msk,881.125,3502.5625,6.25
+2024/2025,District Level,Public School,47.0,qathet,,,All Facility Types,All Grades,3394,529,22,178,717,3332,53,3106.0625,477.125,22,179.125,618.0625,3046.625,3.8125
+2024/2025,District Level,Public School,48.0,Sea to Sky,,,All Facility Types,All Grades,5571,666,390,1008,814,5405,26,5499.5625,672.375,392.9375,1053.25,843.9375,5338.1875,1.875
+2024/2025,District Level,Public School,49.0,Central Coast,,,All Facility Types,All Grades,Msk,Msk,Msk,Msk,Msk,Msk,Msk,213.9375,Msk,Msk,Msk,Msk,Msk,
+2024/2025,District Level,Public School,50.0,Haida Gwaii,,,All Facility Types,All Grades,511,339,100,,118,511,Msk,503.3125,333.125,100,,117.375,503.3125,Msk
+2024/2025,District Level,Public School,51.0,Boundary,,,All Facility Types,All Grades,1290,432,,,195,1289,Msk,1284.75,430.875,,,194.75,1283.75,Msk
+2024/2025,District Level,Public School,52.0,Prince Rupert,,,All Facility Types,All Grades,1801,1121,117,160,274,1794,Msk,1816.3125,1127,118.5,163.25,272.375,1809.5625,Msk
+2024/2025,District Level,Public School,53.0,Okanagan Similkameen,,,All Facility Types,All Grades,2407,558,207,,530,2406,22,2355.8125,537.4375,206,,507.8125,2355.3125,4.125
+2024/2025,District Level,Public School,54.0,Bulkley Valley,,,All Facility Types,All Grades,1938,551,,175,204,1938,Msk,1894.125,543.625,,175,202.875,1894.125,Msk
+2024/2025,District Level,Public School,57.0,Prince George,,,All Facility Types,All Grades,13566,4338,1590,1091,1891,13552,311,13224.625,4230.625,1591.3125,1121.1875,1912.5,13214.3125,11.875
+2024/2025,District Level,Public School,58.0,Nicola-Similkameen,,,All Facility Types,All Grades,3010,1029,39,140,354,3005,284,2083.125,879.25,39.375,141.5,338.625,2080.8125,22.9375
+2024/2025,District Level,Public School,59.0,Peace River South,,,All Facility Types,All Grades,3791,1273,161,256,534,3786,,3647.3125,1227.1875,159.8125,254.25,521.375,3643.3125,
+2024/2025,District Level,Public School,60.0,Peace River North,,,All Facility Types,All Grades,7014,1540,680,360,794,6961,134,6083.6875,1405.6875,677.625,356.9375,769.4375,6041.25,9.625
+2024/2025,District Level,Public School,61.0,Greater Victoria,,,All Facility Types,All Grades,21154,1640,2582,3917,3274,20270,150,21576.3462,1669.0315,2631.0625,4087.2507,3381.6254,20748.8462,28
+2024/2025,District Level,Public School,62.0,Sooke,,,All Facility Types,All Grades,14653,1562,1480,1705,2490,14309,85,13978.8125,1494.125,1504.1875,1743.3125,2537.625,13706.375,13.3125
+2024/2025,District Level,Public School,63.0,Saanich,,,All Facility Types,All Grades,10689,1028,581,1007,1473,10347,1426,7886.75,716.4375,578.875,1017.5,1392.375,7610.5,120.25
+2024/2025,District Level,Public School,64.0,Gulf Islands,,,All Facility Types,All Grades,1539,196,12,114,255,1491,Msk,1506.25,196,12,117.875,256.3125,1468.875,Msk
+2024/2025,District Level,Public School,67.0,Okanagan Skaha,,,All Facility Types,All Grades,6203,1102,252,637,865,6072,Msk,5965.625,1060.8125,254.75,648.4375,865.375,5865.5625,Msk
+2024/2025,District Level,Public School,68.0,Nanaimo-Ladysmith,,,All Facility Types,All Grades,16418,2903,919,1687,1696,16024,109,15638.9375,2791.5,912,1681,1655.125,15283.8125,7.25
+2024/2025,District Level,Public School,69.0,Qualicum,,,All Facility Types,All Grades,4525,650,81,471,636,4376,Msk,4458.5625,631.4375,82.25,480.875,646.6875,4330.625,Msk
+2024/2025,District Level,Public School,70.0,Pacific Rim,,,All Facility Types,All Grades,3951,1479,64,330,503,3924,22,3958.5625,1480.75,64.875,338.125,504.75,3936.0625,7
+2024/2025,District Level,Public School,71.0,Comox Valley,,,All Facility Types,All Grades,15146,2401,198,1362,1175,14835,951,10757.0625,1977.625,198.75,1374.25,1120.8125,10540.375,64.5625
+2024/2025,District Level,Public School,72.0,Campbell River,,,All Facility Types,All Grades,5616,1425,382,858,953,5538,,5722.0,1447.5,384.3125,877.1875,970.375,5653.0625,
+2024/2025,District Level,Public School,73.0,Kamloops-Thompson,,,All Facility Types,All Grades,17134,3653,432,1234,2183,16918,316,16211.25,3420.875,432,1242.75,2159.5,16025.375,37.625
+2024/2025,District Level,Public School,74.0,Gold Trail,,,All Facility Types,All Grades,1053,704,,,142,1053,Msk,1032.625,688.4375,,,138.1875,1032.625,Msk
+2024/2025,District Level,Public School,75.0,Mission,,,All Facility Types,All Grades,7016,1326,379,531,1089,6903,31,6731.75,1276.75,379,536.75,1067.5,6629.125,1.5
+2024/2025,District Level,Public School,78.0,Fraser-Cascade,,,All Facility Types,All Grades,1798,725,65,,374,1798,18,1752.875,704.75,65.375,,366.9375,1752.875,1.125
+2024/2025,District Level,Public School,79.0,Cowichan Valley,,,All Facility Types,All Grades,8637,1885,287,930,1249,8449,Msk,8581.445,1883.69,288.25,944.5626,1266.4079,8412.195,Msk
+2024/2025,District Level,Public School,81.0,Fort Nelson,,,All Facility Types,All Grades,639,256,19,Msk,72,639,,624.0,250.75,18.375,Msk,69.9375,624,
+2024/2025,District Level,Public School,82.0,Coast Mountains,,,All Facility Types,All Grades,4253,2110,430,435,624,4240,Msk,4168.9375,2075.625,429.0625,434.125,616.1875,4157.5625,Msk
+2024/2025,District Level,Public School,83.0,K̓wsaltktnéws ne Secwepemcúl’ecw,,,All Facility Types,All Grades,6702,1411,83,689,1269,6676,Msk,6838.125,1444.6875,84.1875,721.5,1308.5625,6814,Msk
+2024/2025,District Level,Public School,84.0,Vancouver Island West,,,All Facility Types,All Grades,318,194,,,60,310,,322.75,197.375,,,62.5,313.375,
+2024/2025,District Level,Public School,85.0,Vancouver Island North,,,All Facility Types,All Grades,1217,597,179,,304,1217,Msk,1215.125,596.125,178.75,,303,1215.125,Msk
+2024/2025,District Level,Public School,87.0,Stikine,,,All Facility Types,All Grades,Msk,Msk,Msk,Msk,Msk,Msk,Msk,176.5,Msk,Msk,Msk,Msk,Msk,
+2024/2025,District Level,Public School,91.0,Nechako Lakes,,,All Facility Types,All Grades,4961,1600,,110,807,4939,439,3476.75,1412.75,,110,684.6875,3474,21.125
+2024/2025,District Level,Public School,92.0,Nisga'a,,,All Facility Types,All Grades,378,378,Msk,,30,378,Msk,379.3125,379.3125,Msk,,30.875,379.3125,Msk
+2024/2025,District Level,Public School,93.0,Conseil scolaire francophone,,,All Facility Types,All Grades,6088,440,1371,,752,6088,Msk,6063.25,437.4375,1371.5625,,745.4375,6063.25,Msk
+2025/2026,District Level,Public School,5.0,Southeast Kootenay,,,All Facility Types,All Grades,6174,1240,114,640,1018,6115,82,5955.375,1195.4375,115.3125,645.3125,1015.0625,5908.0625,3.8125
+2025/2026,District Level,Public School,6.0,Rocky Mountain,,,All Facility Types,All Grades,3628,826,39,192,459,3570,,3553.125,804.5,39.125,191,457.875,3504.875,
+2025/2026,District Level,Public School,8.0,Kootenay Lake,,,All Facility Types,All Grades,5222,962,66,302,429,5149,87,4666.75,912.9375,65.375,301.375,414.8125,4625.5,9
+2025/2026,District Level,Public School,10.0,Arrow Lakes,,,All Facility Types,All Grades,499,127,Msk,,99,499,Msk,525.0011,136.8441,Msk,,106.5315,525.0011,Msk
+2025/2026,District Level,Public School,19.0,Revelstoke,,,All Facility Types,All Grades,1125,92,45,,222,1098,,1130.6875,92.75,45.3125,,225.25,1106.0625,
+2025/2026,District Level,Public School,20.0,Kootenay-Columbia,,,All Facility Types,All Grades,4226,742,198,311,615,4224,,4161.9375,729.3125,196.875,309.125,606.1875,4159.9375,
+2025/2026,District Level,Public School,22.0,Vernon,,,All Facility Types,All Grades,9477,1459,411,1010,1604,9166,,9035.3125,1400.375,410,1024.25,1598.6875,8803.8125,
+2025/2026,District Level,Public School,23.0,Central Okanagan,,,All Facility Types,All Grades,25617,3347,2111,2810,3692,25167,87,25254.625,3298.3125,2117,2861.25,3699.9375,24844.5,15.5
+2025/2026,District Level,Public School,27.0,Cariboo-Chilcotin,,,All Facility Types,All Grades,4410,1478,,321,478,4409,Msk,4368.8125,1470.1875,,320,474.5,4367.8125,Msk
+2025/2026,District Level,Public School,28.0,Quesnel,,,All Facility Types,All Grades,2884,981,,174,482,2884,15,2791.8125,955.1875,,174.5,481,2791.8125,0.375
+2025/2026,District Level,Public School,33.0,Chilliwack,,,All Facility Types,All Grades,15622,2982,1019,759,2892,15393,224,15993.2813,2986.2813,1032.375,812.625,3021.2188,15778.1563,14.75
+2025/2026,District Level,Public School,34.0,Abbotsford,,,All Facility Types,All Grades,21259,2177,3881,1038,2733,20886,325,20632.0625,2108.0625,3889.125,1050.0625,2733.25,20294.6875,52.625
+2025/2026,District Level,Public School,35.0,Langley,,,All Facility Types,All Grades,27958,2195,2967,1226,4121,26787,956,27040.3125,2120.5625,2965.0625,1243.125,4123.75,26034.4375,105.3125
+2025/2026,District Level,Public School,36.0,Surrey,,,All Facility Types,All Grades,85565,3180,24725,2817,10236,84879,3924,79063.1875,3006.75,24648.5,2789.625,10089.75,78463.4375,474.125
+2025/2026,District Level,Public School,37.0,Delta,,,All Facility Types,All Grades,17477,630,2190,1763,2055,16681,405,16312.125,604.125,2190.125,1755.375,2026.75,15699.25,47.5
+2025/2026,District Level,Public School,38.0,Richmond,,,All Facility Types,All Grades,26584,261,7603,2324,2475,25842,668,23031.6875,236.5625,7584.75,2305.5,2445.6875,22460.8125,68.8125
+2025/2026,District Level,Public School,39.0,Vancouver,,,All Facility Types,All Grades,55666,2213,9311,4377,6801,54351,2032,51793.75,2122.3125,9344.1875,4391.875,6616.375,50579.25,218.25
+2025/2026,District Level,Public School,40.0,New Westminster,,,All Facility Types,All Grades,10114,339,2001,974,1073,9931,1621,8022.8125,294.4375,1989.0625,971.75,1041.75,7876.875,57.625
+2025/2026,District Level,Public School,41.0,Burnaby,,,All Facility Types,All Grades,30757,756,8380,2218,3339,29885,1709,28179.4375,714.3125,8413.5,2243.125,3300.625,27338.5625,80.0625
+2025/2026,District Level,Public School,42.0,Maple Ridge-Pitt Meadows,,,All Facility Types,All Grades,17430,1577,1842,1582,3295,16859,596,16992.0,1528.8125,1848.0625,1609.875,3353,16398.8125,48.5
+2025/2026,District Level,Public School,43.0,Coquitlam,,,All Facility Types,All Grades,36166,1350,6582,3413,6015,35028,1849,34052.0942,1308.5625,6610.0625,3448.0625,6157.4375,32992.0942,301.0317
+2025/2026,District Level,Public School,44.0,North Vancouver,,,All Facility Types,All Grades,17945,686,1721,2685,2830,17285,179,17116.9375,650.5,1720.5,2630.9375,2818.6875,16487.25,7.875
+2025/2026,District Level,Public School,45.0,West Vancouver,,,All Facility Types,All Grades,7296,131,1555,999,890,6888,,7466.875,132.9375,1557.375,1011.5,907.8125,7042.75,
+2025/2026,District Level,Public School,46.0,Sunshine Coast,,,All Facility Types,All Grades,3523,747,137,,963,3509,Msk,3459.875,728.5625,137.9375,,967.0625,3448.75,Msk
+2025/2026,District Level,Public School,47.0,qathet,,,All Facility Types,All Grades,3426,533,26,202,743,3352,62,3085.6875,474.75,26,204,640.9375,3029.5,4.5
+2025/2026,District Level,Public School,48.0,Sea to Sky,,,All Facility Types,All Grades,5365,608,407,990,902,5213,11,5487.4375,636.5,413.375,1040.25,941.3125,5349.0625,2.125
+2025/2026,District Level,Public School,49.0,Central Coast,,,All Facility Types,All Grades,202,119,,,46,202,,207.0625,122,,,47.4375,207.0625,
+2025/2026,District Level,Public School,50.0,Haida Gwaii,,,All Facility Types,All Grades,505,339,75,,129,505,10,496.6875,332.875,75,,128.75,496.6875,
+2025/2026,District Level,Public School,51.0,Boundary,,,All Facility Types,All Grades,1267,411,49,,211,1267,Msk,1262.25,407.875,50.125,,209,1262.25,Msk
+2025/2026,District Level,Public School,52.0,Prince Rupert,,,All Facility Types,All Grades,1777,1109,108,154,276,1774,Msk,1799.0,1115.75,107.75,157.5,277.25,1796,Msk
+2025/2026,District Level,Public School,53.0,Okanagan Similkameen,,,All Facility Types,All Grades,2384,561,166,,526,2384,51,2305.75,527.9375,167.3125,,507.4375,2305.75,7.25
+2025/2026,District Level,Public School,54.0,Bulkley Valley,,,All Facility Types,All Grades,1893,534,,168,221,1893,Msk,1826.375,523.75,,168,219.5,1826.375,Msk
+2025/2026,District Level,Public School,57.0,Prince George,,,All Facility Types,All Grades,13093,4143,1560,1077,1991,13081,154,12998.6875,4113.125,1560.9375,1097.6875,2008.1875,12989,2.6875
+2025/2026,District Level,Public School,58.0,Nicola-Similkameen,,,All Facility Types,All Grades,3340,1000,53,141,354,3325,366,2167.0,848.75,53.5,142.625,337.625,2164.4375,46
+2025/2026,District Level,Public School,59.0,Peace River South,,,All Facility Types,All Grades,3723,1259,138,245,548,3718,Msk,3601.0,1222.8125,137.875,243.25,547.0625,3595.875,Msk
+2025/2026,District Level,Public School,60.0,Peace River North,,,All Facility Types,All Grades,6538,1475,733,344,771,6482,76,6008.3125,1389.6875,730.75,340.3125,753.625,5967.5,14.1875
+2025/2026,District Level,Public School,61.0,Greater Victoria,,,All Facility Types,All Grades,20999,1583,2697,3869,3479,20158,135,21416.252,1608.8438,2751.5625,4020.5,3584.0319,20673.252,23.125
+2025/2026,District Level,Public School,62.0,Sooke,,,All Facility Types,All Grades,15072,1494,1489,1736,2763,14725,79,14341.25,1438.875,1510.625,1780.375,2821.75,14076.625,17.5
+2025/2026,District Level,Public School,63.0,Saanich,,,All Facility Types,All Grades,11916,1137,532,1010,1547,11536,2293,7884.8125,697,532.75,1022.25,1445.3125,7615.75,143.3125
+2025/2026,District Level,Public School,64.0,Gulf Islands,,,All Facility Types,All Grades,1490,193,19,116,255,1488,Msk,1448.4375,185.8125,19,118.0625,255.3125,1446.9375,Msk
+2025/2026,District Level,Public School,67.0,Okanagan Skaha,,,All Facility Types,All Grades,6077,1052,248,623,909,5951,Msk,5906.6875,1008.875,249.8125,635.1875,907.375,5802.375,Msk
+2025/2026,District Level,Public School,68.0,Nanaimo-Ladysmith,,,All Facility Types,All Grades,16532,2856,848,1661,1822,16092,137,15695.4375,2734.5625,841.6875,1661,1789.125,15285.75,9.875
+2025/2026,District Level,Public School,69.0,Qualicum,,,All Facility Types,All Grades,4496,635,86,439,597,4359,Msk,4415.6875,618.3125,86.75,454.25,599.625,4294.625,Msk
+2025/2026,District Level,Public School,70.0,Pacific Rim,,,All Facility Types,All Grades,4134,1534,63,326,535,4098,210,3971.0625,1459.6875,64.1875,336.375,541.4375,3940.75,3.25
+2025/2026,District Level,Public School,71.0,Comox Valley,,,All Facility Types,All Grades,16860,2566,203,1381,1242,16615,1792,11078.5,1937.0625,203.75,1386.9375,1187.25,10930.875,99.9375
+2025/2026,District Level,Public School,72.0,Campbell River,,,All Facility Types,All Grades,5665,1434,403,898,1010,5589,,5767.9375,1457.625,405.75,915.5,1023.875,5699.5625,
+2025/2026,District Level,Public School,73.0,Kamloops-Thompson,,,All Facility Types,All Grades,17262,3617,431,1236,2283,17018,424,16153.6875,3338.4375,429.1875,1237.625,2245.375,15944,42.375
+2025/2026,District Level,Public School,74.0,Gold Trail,,,All Facility Types,All Grades,1005,649,,,143,1005,,974.0,629.75,,,137,974,
+2025/2026,District Level,Public School,75.0,Mission,,,All Facility Types,All Grades,7024,1319,301,548,1130,6927,40,6666.6875,1251.375,302.1875,549.75,1094.375,6578.375,1.875
+2025/2026,District Level,Public School,78.0,Fraser-Cascade,,,All Facility Types,All Grades,1861,740,69,,375,1860,35,1818.1875,719,69.625,,372.1875,1817.1875,3.375
+2025/2026,District Level,Public School,79.0,Cowichan Valley,,,All Facility Types,All Grades,8454,1859,323,920,1280,8242,Msk,8384.1285,1848.0004,325.2188,932.0625,1295.657,8226.1285,Msk
+2025/2026,District Level,Public School,81.0,Fort Nelson,,,All Facility Types,All Grades,605,234,16,,90,605,Msk,583.0,224.875,15.125,,87.5,583,Msk
+2025/2026,District Level,Public School,82.0,Coast Mountains,,,All Facility Types,All Grades,4320,2090,443,433,651,4288,Msk,4193.5625,2037.625,442.375,429.75,636.5625,4168,Msk
+2025/2026,District Level,Public School,83.0,K̓wsaltktnéws ne Secwepemcúl’ecw,,,All Facility Types,All Grades,6653,1365,82,631,1171,6612,Msk,6758.8125,1390.5,83.375,652.5,1195.1875,6726.25,Msk
+2025/2026,District Level,Public School,84.0,Vancouver Island West,,,All Facility Types,All Grades,311,192,,,60,304,,312.75,193.25,,,60.625,305,
+2025/2026,District Level,Public School,85.0,Vancouver Island North,,,All Facility Types,All Grades,1207,593,157,,327,1207,Msk,1198.0,591.75,156.5,,328.5,1198,Msk
+2025/2026,District Level,Public School,87.0,Stikine,,,All Facility Types,All Grades,179,144,,,17,179,,176.625,141.375,,,17.125,176.625,
+2025/2026,District Level,Public School,91.0,Nechako Lakes,,,All Facility Types,All Grades,5761,1660,,113,831,5718,807,3435.75,1371,,113,704.5,3430.625,29.125
+2025/2026,District Level,Public School,92.0,Nisga'a,,,All Facility Types,All Grades,380,377,Msk,,38,380,,387.625,384.625,Msk,,38.8125,387.625,
+2025/2026,District Level,Public School,93.0,Conseil scolaire francophone,,,All Facility Types,All Grades,6017,387,1328,,781,6010,24,5929.0,380.9375,1327.5625,,765.875,5924.5,0.625
