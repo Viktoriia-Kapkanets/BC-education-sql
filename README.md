@@ -1,4 +1,4 @@
-# BC K-12 Education — Funding vs Enrolment (SQL)
+# BC K-12 Education — Funding vs Enrolment (Python · SQL · Power BI)
 
 A self-directed analysis on **public BC open data**: pulling two separate government
 datasets from source, cleaning them in Python, and using SQL to answer whether K-12
@@ -59,10 +59,14 @@ the same class of error that quietly corrupts a report if nobody reconciles the 
 ## Repo structure
 
 
-    ├── bc_education_sql.ipynb   # Python data prep + SQL analysis (SQLite)
+    ├── bc_education_sql.ipynb        # Python data prep + SQL analysis (SQLite)
+    ├── bc_education_dashboard.pbix   # Power BI dashboard
+    ├── 01_overview.png               # dashboard screenshots
+    ├── 02_districts.png
+    ├── 03_grants.png
     └── data/
-        ├── funding_clean.csv     # 240 rows — district x year
-        └── enrolment_clean.csv   # 360 rows — district x year (from 137,581 raw)
+        ├── funding_clean.csv          # 240 rows — district x year
+        └── enrolment_clean.csv        # 360 rows — district x year (from 137,581 raw)
 
 ---
 
@@ -85,4 +89,4 @@ discontinued grants.
 ## Tools
 
 **Python (pandas)** for data preparation · **SQL (SQLite)** for analysis — CTEs,
-conditional aggregation, multi-table JOIN · public BC open data.
+conditional aggregation, multi-table JOIN · **Power BI** for the dashboard · public BC open data.
