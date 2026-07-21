@@ -72,7 +72,7 @@ An interactive Power BI dashboard built on the same public data, closing the
 loop from raw source to visual insight.
 
 **Page 1 — Overview:** funding vs enrolment trend and headline KPIs.
-[Overview](01_overview.png)
+![Overview](01_overview.png)
 
 **Page 2 — District Comparison:** per-district funding vs enrolment change
 (scatter, r = 0.91) and the districts that lost students yet gained funding.
