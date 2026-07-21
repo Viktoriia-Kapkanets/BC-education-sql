@@ -86,6 +86,8 @@ loop from raw source to visual insight.
 discontinued grants.
 ![Grants](03_grants.png)
 
+---
+
 ## Tools
 
 **Python (pandas)** for data preparation · **SQL (SQLite)** for analysis — CTEs,
